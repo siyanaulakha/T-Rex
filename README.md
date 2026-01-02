@@ -1,8 +1,8 @@
-## T-REX GAME. 
+## T-REX GAME
 A Java-based desktop recreation of the classic Chrome T-Rex endless runner game, developed as a personal project to explore object-oriented programming, game loops, and real-time application logic.
 This project extends the original concept by introducing three distinct gameplay versions, each offering a unique experience.
 
-Game Versions / Modes
+## Game Versions / Modes
 1. Classic T-Rex Mode
 
 The original endless runner experience inspired by the Chrome offline T-Rex game. Players control the dinosaur to jump over obstacles while the game speed and difficulty progressively increase.
@@ -15,7 +15,7 @@ A themed variation inspired by the COVID-era concept, featuring customized visua
 
 A playful variation featuring a smaller dinosaur character. The change in character scale affects gameplay dynamics and adds variety to the overall experience.
 
-Technical Highlights:
+## Technical Highlights:
 
 Implemented a real-time game loop for smooth rendering and gameplay
 
